@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Jennifer Renoux</title>
+    <link>https://example.com/publication-type/7/</link>
+      <atom:link href="https://example.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>7</title>
+      <link>https://example.com/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Contribution to multiagent planning for active information gathering</title>
+      <link>https://example.com/publication/renoux-2015-contribution/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/renoux-2015-contribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affective computing: validation analytique et expérimentale</title>
+      <link>https://example.com/publication/renoux-2011-affective/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/renoux-2011-affective/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

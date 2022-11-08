@@ -1,0 +1,18 @@
+{
+  "name": "Jennifer Renoux",
+  "short_name": "Jennifer Renoux",
+  "lang": "en-us",
+  "theme_color": "#D08770",
+  "background_color": "#D08770",
+  "icons": [{
+    "src": "/media/icon_hu5e5fe662001e61e9fffc0d6d3bd12d0c_8955_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu5e5fe662001e61e9fffc0d6d3bd12d0c_8955_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

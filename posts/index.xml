@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Jennifer Renoux</title>
+    <link>https://example.com/posts/</link>
+      <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>Posts</title>
+      <link>https://example.com/posts/</link>
+    </image>
+    
+  </channel>
+</rss>

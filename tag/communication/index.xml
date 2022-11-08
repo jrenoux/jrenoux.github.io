@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication | Jennifer Renoux</title>
+    <link>https://example.com/tag/communication/</link>
+      <atom:link href="https://example.com/tag/communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Communication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>Communication</title>
+      <link>https://example.com/tag/communication/</link>
+    </image>
+    
+    <item>
+      <title>CHAI@IJCAI-ECAI 2022</title>
+      <link>https://example.com/talks-events/chai-ijcai/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talks-events/chai-ijcai/</guid>
+      <description>&lt;p&gt;On July 24, 2022, we hosted the first workshop on Communication in Human-AI Interaction (CHAI) at the 31st International Joint Conference on Artificial Intelligence (IJCAI 2022). The goal of this one-day workshop was to bring together experts from AI, HCI, and Cognitive Sciences to explore and understand the specificities and characteristics of communication in human-AI interactions, as well as the salient principles, methods, and theories one has to consider to build meaningful human-AI communication systems.&lt;/p&gt;
+&lt;p&gt;We attended 8 paper presentations, as well as two very inspiring keynotes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nicolas Fay&lt;/strong&gt;, Associate Professor of Cognitive Sciences, presented to us the Role of Iconicity and Embodiment to the Evolution of Human Communication.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mark Riedl&lt;/strong&gt;, Professor in Artificial Intelligence, argumed for Automated Story Generation as a Lens for Fundamental Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;We were very glad to have a very good attendance and fantastic discussions. Thanks to the organizing team, the PC members, and all the participants for making this event a success!&lt;/p&gt;
+&lt;p&gt;The link to the accepted papers and the slides of our keynotes are available on the &lt;a href=&#34;https://chai-workshop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Stay tuned, for a 2023 edition might be coming! 😉&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

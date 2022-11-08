@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Jennifer Renoux</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Integrating Social Assistive Robots, IoT, Virtual Communities and Smart Objects to Assist at-Home Independently Living Elders: the MoveCare Project</title>
+      <link>https://example.com/publication/luperto-2022-integrating/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/luperto-2022-integrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User feedback and remote supervision for assisted living with mobile robots: A field study in long-term autonomy</title>
+      <link>https://example.com/publication/luperto-2022-user/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/luperto-2022-user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open-Source Data Collection and Data Sets for Activity Recognition in Smart Homes</title>
+      <link>https://example.com/publication/kockemann-2020-open/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kockemann-2020-open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ontology-based context-aware system for smart homes: E-care@ home</title>
+      <link>https://example.com/publication/alirezaie-2017-ontology/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/alirezaie-2017-ontology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

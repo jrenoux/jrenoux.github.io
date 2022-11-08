@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Jennifer Renoux</title>
+    <link>https://example.com/categories/</link>
+      <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2022 10:22:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>Categories</title>
+      <link>https://example.com/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Jennifer Renoux</title>
+    <link>https://example.com/category/news/</link>
+      <atom:link href="https://example.com/category/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Nov 2022 10:22:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>News</title>
+      <link>https://example.com/category/news/</link>
+    </image>
+    
+    <item>
+      <title>VR Project Grant Accepted</title>
+      <link>https://example.com/talks-events/vr-2022/</link>
+      <pubDate>Tue, 08 Nov 2022 10:22:00 +0000</pubDate>
+      <guid>https://example.com/talks-events/vr-2022/</guid>
+      <description>&lt;p&gt;The project proposal I&amp;rsquo;m leading, titled &amp;ldquo;Adaptive Communication Planning for Collaborative AI&amp;rdquo;, has been funded by the Swedish National Research Council (Vetenskaprådet).&lt;/p&gt;
+&lt;p&gt;To understand this project&amp;rsquo;s scope, imagine that you are newly employed in a company that uses three types of intelligent machines to assist workers in their various tasks. You have never worked with these machines before. For your first task, you must extract fuel samples from multiple trucks and use the machine’s sensors to analyze them for predictive maintenance. The first machine will only give you information about the task if you ask for it. You are at high risk of missing important information if you don’t know the right question to ask, such as the fact that you should only collect samples on trucks that have not been used for at least an hour.&lt;/p&gt;
+&lt;p&gt;The second machine will give you information proactively, but can only explain how the entire task should be carried out, from the beginning and regardless of what you can and cannot perform. It will always instruct you to select a truck that has been unused for at least an hour, then collect the sample with the dedicated device, then place the sample on the machine’s analyzer, then turn on the robot’s analyzing program, etc. While this information makes sense the first time you interact with the machine, it becomes quickly irrelevant and cumbersome in the long term.&lt;/p&gt;
+&lt;p&gt;The third machine has been tailored to your needs: your preferences, your level of expertise, your skills, your abilities and will give you precisely the right amount and type of information. However, if you happen to leave the company or miss some days of work, no one will be able to use this machine until it is reconfigured, which is a costly and cumbersome operation.&lt;/p&gt;
+&lt;p&gt;It seems obvious that none of these three machines constitute the ideal partner for a collaborative task in a multi-user environment. This, however, is the current state of the art in
+human-machine communication. In this project, we propose to realize intelligent agents that combine all three machine&amp;rsquo;s communication skills.&lt;/p&gt;
+&lt;p&gt;Our vision with this project is to advance the field of collaborative Artificial Intelligence, i.e., the development of artificially intelligent agents that can interact with humans, leveraging their strengths and compensating for their weaknesses.  Adaptive purposeful communication planning, i.e., the ability to plan communication actions to a given goal and adapt them to changing contexts and users, is a crucial component for collaborative AI and the central topic of this project.&lt;/p&gt;
+&lt;p&gt;If this sounds interesting to you, stay tuned as we will soon start the recruitment of a Ph.D. student!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

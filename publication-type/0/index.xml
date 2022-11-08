@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Jennifer Renoux</title>
+    <link>https://example.com/publication-type/0/</link>
+      <atom:link href="https://example.com/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>0</title>
+      <link>https://example.com/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Users&#39; Concern for Privacy in Context-Aware Reasoning Systems</title>
+      <link>https://example.com/publication/forstmann-2020-users/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/forstmann-2020-users/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method For Obtaining A System For Active, Decentralized Multi-agent Situation Control</title>
+      <link>https://example.com/publication/renoux-2015-method/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/renoux-2015-method/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
