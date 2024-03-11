@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>decision-theoretic planning | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/tag/decision-theoretic-planning/</link>
+      <atom:link href="https://jrenoux.github.io/tag/decision-theoretic-planning/index.xml" rel="self" type="application/rss+xml" />
+    <description>decision-theoretic planning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>decision-theoretic planning</title>
+      <link>https://jrenoux.github.io/tag/decision-theoretic-planning/</link>
+    </image>
+    
+    <item>
+      <title>From Reactive to Active Sensing: A Survey on Information Gathering in Decision-Theoretic Planning</title>
+      <link>https://jrenoux.github.io/publication/veiga-2023-from/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/veiga-2023-from/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper accepted ! &#34;From Reactive to Active Sensing: a Survey on Information Gathering in Decision-Theoretic Planning</title>
+      <link>https://jrenoux.github.io/talks-events/csur-23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/csur-23/</guid>
+      <description>&lt;p&gt;Our new paper titled &amp;ldquo;From Reactive to Active Sensing: a Survey on Information Gathering in Decision-Theoretic Planning&amp;rdquo; has ben accepted for publication in ACM Computing Survey.&lt;/p&gt;
+&lt;p&gt;In this paper, we looked at how previous work tackled the problem of information gathering in MDP-based system. Indeed, in most cases, information gathering is simply a mean to a goal. When it becomes the goal, such as in search and rescue or surveillance scenarios, traditional decision-theoretic systems cannot model the problem effectively. Many researchers have searched ways to circumvent this problem. We distinguished two different approaches:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reactive Sensing : where the model makes use of &amp;ldquo;external stimuli&amp;rdquo; to &amp;ldquo;trick&amp;rdquo; the agent to gather information. This approach is often very application-dependent, and does not allow to reason on the lack of informtaion as information in itself.&lt;/li&gt;
+&lt;li&gt;Active Sensing : where the model actually incorporates reasoning about information states. This approach has the advantage to explicety reason about information gain (and the lack of thereof) but at the cost of complexity. We also observed that it is in fact very seldom applied to real-life scenarios.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I hope that this read will interest you and do not hesitate to get in touch if you want to chat about this!&lt;/p&gt;
+&lt;p&gt;Jennifer&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
