@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/tag/academic/</link>
+      <atom:link href="https://jrenoux.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>Academic</title>
+      <link>https://jrenoux.github.io/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>The CHAI Workshop is coming back in Malmö in June</title>
+      <link>https://jrenoux.github.io/talks-events/20240315-chai-hhai/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/20240315-chai-hhai/</guid>
+      <description>&lt;p&gt;Our Workshop on Communication in Human-AI Interaction will be held in Malmö, Sweden on June 10. The goal of this one-day workshop is to bring together experts from AI, HCI, and Cognitive Sciences to explore and understand the specificities and characteristics of communication in human-AI interactions, as well as the salient principles, methods, and theories one has to consider to build meaningful human-AI communication systems. As the study of communication in human-AI interaction is by essence a multidisciplinary approach, we aim for this workshop to be a multidisciplinary platform where researchers can learn to work together and pave the way to impacting research.&lt;/p&gt;
+&lt;p&gt;Have a look at our &lt;a href=&#34;https://chai-workshop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;. and consider submitting a paper!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cultu-RO-MAN</title>
+      <link>https://jrenoux.github.io/talks-events/cultu-roman/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/cultu-roman/</guid>
+      <description>&lt;p&gt;On August 25, 2022, we hosted the Cultu-ro workshsop at Ro-MAN 2022. The workshop will focused on the cultural influences in human-robot interaction. Robots have the potential to improve services in areas such as eldercare, rehabilitation, training, and education.&lt;/p&gt;
+&lt;p&gt;More information and detail of the program available &lt;a href=&#34;https://sites.google.com/view/culturo-roman22/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on the workshop website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CHAI@IJCAI-ECAI 2022</title>
+      <link>https://jrenoux.github.io/talks-events/chai-ijcai/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/chai-ijcai/</guid>
+      <description>&lt;p&gt;On July 24, 2022, we hosted the first workshop on Communication in Human-AI Interaction (CHAI) at the 31st International Joint Conference on Artificial Intelligence (IJCAI 2022). The goal of this one-day workshop was to bring together experts from AI, HCI, and Cognitive Sciences to explore and understand the specificities and characteristics of communication in human-AI interactions, as well as the salient principles, methods, and theories one has to consider to build meaningful human-AI communication systems.&lt;/p&gt;
+&lt;p&gt;We attended 8 paper presentations, as well as two very inspiring keynotes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nicolas Fay&lt;/strong&gt;, Associate Professor of Cognitive Sciences, presented to us the Role of Iconicity and Embodiment to the Evolution of Human Communication.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mark Riedl&lt;/strong&gt;, Professor in Artificial Intelligence, argumed for Automated Story Generation as a Lens for Fundamental Artificial Intelligence.&lt;/p&gt;
+&lt;p&gt;We were very glad to have a very good attendance and fantastic discussions. Thanks to the organizing team, the PC members, and all the participants for making this event a success!&lt;/p&gt;
+&lt;p&gt;The link to the accepted papers and the slides of our keynotes are available on the &lt;a href=&#34;https://chai-workshop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshop website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Stay tuned, for a 2023 edition might be coming! 😉&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
