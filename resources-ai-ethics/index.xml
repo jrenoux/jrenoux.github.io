@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Ethics of AI | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/resources-ai-ethics/</link>
+      <atom:link href="https://jrenoux.github.io/resources-ai-ethics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resources on Ethics of AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>Resources on Ethics of AI</title>
+      <link>https://jrenoux.github.io/resources-ai-ethics/</link>
+    </image>
+    
+  </channel>
+</rss>

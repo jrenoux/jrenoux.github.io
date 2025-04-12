@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>critical approach | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/tag/critical-approach/</link>
+      <atom:link href="https://jrenoux.github.io/tag/critical-approach/index.xml" rel="self" type="application/rss+xml" />
+    <description>critical approach</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>critical approach</title>
+      <link>https://jrenoux.github.io/tag/critical-approach/</link>
+    </image>
+    
+    <item>
+      <title>From Corrective to Empowering Technologies: Integrating Critical Perspectives in Social Robotics for Autism</title>
+      <link>https://jrenoux.github.io/publication/elmadagli-2023-from/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/elmadagli-2023-from/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social robotics | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/tag/social-robotics/</link>
+      <atom:link href="https://jrenoux.github.io/tag/social-robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>social robotics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>social robotics</title>
+      <link>https://jrenoux.github.io/tag/social-robotics/</link>
+    </image>
+    
+    <item>
+      <title>Visual Noun Modifiers: The Problem of Binding Visual and Linguistic Cues</title>
+      <link>https://jrenoux.github.io/publication/faridghasemnia-2024-visual/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/faridghasemnia-2024-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper accepted ! From Corrective to Empowering Technologies: Integrating Critical Perspectives in Social Robotics for Autism</title>
+      <link>https://jrenoux.github.io/talks-events/20231207-interhai/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/20231207-interhai/</guid>
+      <description>&lt;p&gt;Our new extended abstract titled &amp;ldquo;From Corrective to Empowering Technologies: Integrating Critical Perspectives in Social Robotics for Autism&amp;rdquo; has been accepted for presentation at the Inter.HAI workshop! In this paper, we look at how the social robotics field usually look at autism as a problem that needs to be corrected, and introduce two approaches that are of interest for social robotics researchers who want to adopt a more critical approach. You can access the paper &lt;a href=&#34;https://jrenoux.github.io/uploads/papers/interhai-2023-cei-jrx.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Corrective to Empowering Technologies: Integrating Critical Perspectives in Social Robotics for Autism</title>
+      <link>https://jrenoux.github.io/publication/elmadagli-2023-from/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/elmadagli-2023-from/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
