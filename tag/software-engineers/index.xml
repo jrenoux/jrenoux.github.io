@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineers | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/tag/software-engineers/</link>
+      <atom:link href="https://jrenoux.github.io/tag/software-engineers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Engineers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>Software Engineers</title>
+      <link>https://jrenoux.github.io/tag/software-engineers/</link>
+    </image>
+    
+    <item>
+      <title>AI Ethic for Engineers, Swedsoft</title>
+      <link>https://jrenoux.github.io/talks-events/swedsoft/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/swedsoft/</guid>
+      <description>&lt;p&gt;On Sept. 6, 2022, I had the pleasure of presenting an Introduction to AI Ethics and Engineer at one of Swedsoft Seminars. Swedsoft gathers organizations from all over Sweden who are interested in software development.&lt;/p&gt;
+&lt;p&gt;Thanks a lot to the organizers for inviting me! You can find the slides of my presentation &lt;a href=&#34;https://jrenoux.github.io/uploads/talks/swedsoft-slides.pdf&#34;&gt;here&lt;/a&gt; and more information about this event at &lt;a href=&#34;https://www.swedsoft.se/en/2022/09/26/ai-and-ethics-for-engineer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Swedsoft website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

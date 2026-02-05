@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/category/papers/</link>
+      <atom:link href="https://jrenoux.github.io/category/papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Papers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>Papers</title>
+      <link>https://jrenoux.github.io/category/papers/</link>
+    </image>
+    
+    <item>
+      <title>Paper accepted ! AI Research is not Magic, it has to be Reproducible and Responsible: Challenges in the AI field from the Perspective of its PhD Students</title>
+      <link>https://jrenoux.github.io/talks-events/20251013-dighum/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/20251013-dighum/</guid>
+      <description>&lt;p&gt;Our new paper about the needs of the AI researchers have been accepted for presentation at the Digital Humanism conference. In this paper, we start from the observation that research needs to be reproducible and responsible, and that Ph.D. students are often the ones taking the burden of reproducibility. We therefore interviewed 28 of them and conducted a qualitative analysis to identify the commonly encountered pain points. We found out that despite many existing initiatives, research in AI still fails to be reproducible. We discuss the impact of this irreproducibility on the field and propose recommendations for institutions and the field in general to facilitate reproducible and responsible AI research.&lt;/p&gt;
+&lt;p&gt;You can access the pre-print of this paper &lt;a href=&#34;https://jrenoux.github.io/uploads/papers/digihum-2025.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted ! From Corrective to Empowering Technologies: Integrating Critical Perspectives in Social Robotics for Autism</title>
+      <link>https://jrenoux.github.io/talks-events/20231207-interhai/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/20231207-interhai/</guid>
+      <description>&lt;p&gt;Our new extended abstract titled &amp;ldquo;From Corrective to Empowering Technologies: Integrating Critical Perspectives in Social Robotics for Autism&amp;rdquo; has been accepted for presentation at the Inter.HAI workshop! In this paper, we look at how the social robotics field usually look at autism as a problem that needs to be corrected, and introduce two approaches that are of interest for social robotics researchers who want to adopt a more critical approach. You can access the paper &lt;a href=&#34;https://jrenoux.github.io/uploads/papers/interhai-2023-cei-jrx.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper accepted ! &#34;From Reactive to Active Sensing: a Survey on Information Gathering in Decision-Theoretic Planning</title>
+      <link>https://jrenoux.github.io/talks-events/csur-23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/csur-23/</guid>
+      <description>&lt;p&gt;Our new paper titled &amp;ldquo;From Reactive to Active Sensing: a Survey on Information Gathering in Decision-Theoretic Planning&amp;rdquo; has ben accepted for publication in ACM Computing Survey.&lt;/p&gt;
+&lt;p&gt;In this paper, we looked at how previous work tackled the problem of information gathering in MDP-based system. Indeed, in most cases, information gathering is simply a mean to a goal. When it becomes the goal, such as in search and rescue or surveillance scenarios, traditional decision-theoretic systems cannot model the problem effectively. Many researchers have searched ways to circumvent this problem. We distinguished two different approaches:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reactive Sensing : where the model makes use of &amp;ldquo;external stimuli&amp;rdquo; to &amp;ldquo;trick&amp;rdquo; the agent to gather information. This approach is often very application-dependent, and does not allow to reason on the lack of informtaion as information in itself.&lt;/li&gt;
+&lt;li&gt;Active Sensing : where the model actually incorporates reasoning about information states. This approach has the advantage to explicety reason about information gain (and the lack of thereof) but at the cost of complexity. We also observed that it is in fact very seldom applied to real-life scenarios.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I hope that this read will interest you and do not hesitate to get in touch if you want to chat about this!&lt;/p&gt;
+&lt;p&gt;Jennifer&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

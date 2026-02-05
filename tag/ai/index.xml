@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/tag/ai/</link>
+      <atom:link href="https://jrenoux.github.io/tag/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>AI</title>
+      <link>https://jrenoux.github.io/tag/ai/</link>
+    </image>
+    
+    <item>
+      <title>Paper accepted ! AI Research is not Magic, it has to be Reproducible and Responsible: Challenges in the AI field from the Perspective of its PhD Students</title>
+      <link>https://jrenoux.github.io/talks-events/20251013-dighum/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/20251013-dighum/</guid>
+      <description>&lt;p&gt;Our new paper about the needs of the AI researchers have been accepted for presentation at the Digital Humanism conference. In this paper, we start from the observation that research needs to be reproducible and responsible, and that Ph.D. students are often the ones taking the burden of reproducibility. We therefore interviewed 28 of them and conducted a qualitative analysis to identify the commonly encountered pain points. We found out that despite many existing initiatives, research in AI still fails to be reproducible. We discuss the impact of this irreproducibility on the field and propose recommendations for institutions and the field in general to facilitate reproducible and responsible AI research.&lt;/p&gt;
+&lt;p&gt;You can access the pre-print of this paper &lt;a href=&#34;https://jrenoux.github.io/uploads/papers/digihum-2025.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who shapes the future with AI - My talk at DoSpace Örebro</title>
+      <link>https://jrenoux.github.io/talks-events/20251009-dospace/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/20251009-dospace/</guid>
+      <description>&lt;p&gt;Following my &lt;a href=&#34;https://www.na.se/2025-04-11/darfor-ar-ai-en-politisk-fraga-som-angar-dig/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recent article for the Swedish Newspaper Nerikes Allehanda&lt;/a&gt; (that you can find in English &lt;a href=&#34;https://jrenoux.github.io/popular-science/ai-is-political-issue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), I  have been invited to talk about AI and how it shapes the future (and through whom) at &lt;a href=&#34;https://dospace.se/orebro/dospace-sodercity-orebro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DoSpace Örebro&lt;/a&gt;, a co-working company that just cebrated its first year in Örebro.
+In this talk, I started with a short introduction to what AI is in order to give the audience (non-specialists) an idea of what we are actually working on when we talk about AI. I then provided some information about ethical issues related to AI (we could only scratch the surface!), and went on to discuss who is currently talking on the world stage and what their narrative was.
+I advocated for a change of narrative and a more inclusive discussion around AI. Currently, the general public is absent from the discussion about AI and its future, even though it is directly impacted. I believe (and argued) that AI must become a political question the same way economy, social welfare, or ecology are political questions. And that this does not mean that everyone must become an expert in AI but that we are in critical need of critical AI literacy.&lt;/p&gt;
+&lt;p&gt;You can access the slides of my talk &lt;a href=&#34;https://jrenoux.github.io/uploads/talks/20251009-dospace-slides.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A bit thank you to &lt;a href=&#34;https://dospace.se/orebro/dospace-sodercity-orebro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DoSpace&lt;/a&gt; for inviting me and the very interesting discussions that followed the presentation!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large Language Models &#43; Giant AI Experiments = A Whole New World?</title>
+      <link>https://jrenoux.github.io/talks-events/20231019-linnaeus-university/</link>
+      <pubDate>Thu, 19 Oct 2023 10:10:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/20231019-linnaeus-university/</guid>
+      <description>&lt;p&gt;On October 19th, I gave a talk at the Research Seminar eHealth Series, organized by Health Data Sweden, about LLM and how they change (or not) the world we are living in.&lt;/p&gt;
+&lt;p&gt;Thanks a lot to the organizers for inviting me! You can find the slides of my presentation &lt;a href=&#34;https://jrenoux.github.io/uploads/talks/20231019-llm-linnaeus.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond the Hype: Perspectives on the use of AI and LLM at the university</title>
+      <link>https://jrenoux.github.io/talks-events/oru-business-school/</link>
+      <pubDate>Tue, 29 Aug 2023 16:45:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/oru-business-school/</guid>
+      <description>&lt;p&gt;On August 23rd, I had the pleasure of talking in front of Örebro University&amp;rsquo;s buisness school about LLM, what they are, and how they may change our university work.&lt;/p&gt;
+&lt;p&gt;Thanks a lot to the organizers for inviting me! You can find the slides of my presentation &lt;a href=&#34;https://jrenoux.github.io/uploads/talks/ethics-ai-llm-university.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

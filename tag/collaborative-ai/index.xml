@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collaborative AI | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/tag/collaborative-ai/</link>
+      <atom:link href="https://jrenoux.github.io/tag/collaborative-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>collaborative AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>collaborative AI</title>
+      <link>https://jrenoux.github.io/tag/collaborative-ai/</link>
+    </image>
+    
+    <item>
+      <title>When Should I Lead or Follow: Understanding Initiative Levels in Human-AI Collaborative Gameplay</title>
+      <link>https://jrenoux.github.io/publication/lobo-2024-when/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/lobo-2024-when/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

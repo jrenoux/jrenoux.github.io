@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>active sensing | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/tag/active-sensing/</link>
+      <atom:link href="https://jrenoux.github.io/tag/active-sensing/index.xml" rel="self" type="application/rss+xml" />
+    <description>active sensing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>active sensing</title>
+      <link>https://jrenoux.github.io/tag/active-sensing/</link>
+    </image>
+    
+    <item>
+      <title>From Reactive to Active Sensing: A Survey on Information Gathering in Decision-Theoretic Planning</title>
+      <link>https://jrenoux.github.io/publication/veiga-2023-from/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/veiga-2023-from/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

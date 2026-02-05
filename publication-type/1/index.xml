@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/publication-type/1/</link>
+      <atom:link href="https://jrenoux.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>1</title>
+      <link>https://jrenoux.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>A Unified Decision-Theoretic Model for Information Gathering and Communication Planning</title>
+      <link>https://jrenoux.github.io/publication/renoux-2020-unified/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/renoux-2020-unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Virtual Caregiver for Assisted Daily Living of Pre-frail Users</title>
+      <link>https://jrenoux.github.io/publication/renoux-2020-virtual/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/renoux-2020-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The MOVECARE project: Home-based monitoring of frailty</title>
+      <link>https://jrenoux.github.io/publication/lunardini-2019-movecare/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/lunardini-2019-movecare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Guest Detection in a Smart Home using Pervasive Sensors and Probabilistic Reasoning</title>
+      <link>https://jrenoux.github.io/publication/renoux-2018-online/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/renoux-2018-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeking Prevention of Cognitive Decline in Elders via Activity Suggestion by A Virtual Caregiver.</title>
+      <link>https://jrenoux.github.io/publication/vuono-2018-seeking/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/vuono-2018-seeking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Daily Activities in a Smart Home for Data Generation</title>
+      <link>https://jrenoux.github.io/publication/renoux-2018-simulating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/renoux-2018-simulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Situation Reporting: Definition and Analysis</title>
+      <link>https://jrenoux.github.io/publication/renoux-2017-active/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/renoux-2017-active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context recognition in multiple occupants situations: Detecting the number of agents in a smart home environment with simple sensors</title>
+      <link>https://jrenoux.github.io/publication/renoux-2017-context/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/renoux-2017-context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a synergy of qualitative spatio-temporal reasoning and smart environments for assisting the elderly at home</title>
+      <link>https://jrenoux.github.io/publication/sioutis-2017-towards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/sioutis-2017-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A decision-theoretic planning approach for multi-robot exploration and event search</title>
+      <link>https://jrenoux.github.io/publication/renoux-2015-decision/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/renoux-2015-decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Distributed Decision-Theoretic Model for Multiagent Active Information Gathering</title>
+      <link>https://jrenoux.github.io/publication/renoux-2014-distributed/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/renoux-2014-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un modèle de décision distribué pour la collecte d&#39;information active multiagents</title>
+      <link>https://jrenoux.github.io/publication/renoux-2014-modele/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/renoux-2014-modele/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
