@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critical Study | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/tag/critical-study/</link>
+      <atom:link href="https://jrenoux.github.io/tag/critical-study/index.xml" rel="self" type="application/rss+xml" />
+    <description>Critical Study</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>Critical Study</title>
+      <link>https://jrenoux.github.io/tag/critical-study/</link>
+    </image>
+    
+    <item>
+      <title>Paper accepted ! Theory of Whose Mind? Exposing the Shortcomings of One of HRI’s Core Concepts</title>
+      <link>https://jrenoux.github.io/talks-events/20260306-alt-hri/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/talks-events/20260306-alt-hri/</guid>
+      <description>&lt;p&gt;I am really proud to tell you that our paper about the Theory of Mind, its shortcomings, and its importance for Social Robotics, has been accepted at alt.HRI and is now available for reading &lt;a href=&#34;https://jrenoux.github.io/uploads/papers/alt-hri-2026.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In this paper, we look at the origins of Theory of Mind and how it is used by the Social Robotics Community. We then address the issues that the concept is facing and why it should be abandonned as a unifying theory, and what this means for social robotics research! If you are interested in getting a critical lens on one of HRI’s core concept, have a look!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

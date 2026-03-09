@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prosociality | Jennifer Renoux</title>
+    <link>https://jrenoux.github.io/tag/prosociality/</link>
+      <atom:link href="https://jrenoux.github.io/tag/prosociality/index.xml" rel="self" type="application/rss+xml" />
+    <description>prosociality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jrenoux.github.io/media/logo_huc6f9f266f1d613c2d87b3693fb23c228_47872_300x300_fit_lanczos_3.png</url>
+      <title>prosociality</title>
+      <link>https://jrenoux.github.io/tag/prosociality/</link>
+    </image>
+    
+    <item>
+      <title>The Effect of Agent-Based Feedback on Prosociality in Social Dilemmas</title>
+      <link>https://jrenoux.github.io/publication/renoux-2025-effect/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jrenoux.github.io/publication/renoux-2025-effect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
